@@ -3,6 +3,8 @@
 
 Ceci est le repo GitHub contenant le fichier scv des appels, ainsi que les scripts php.
 
+**db_gac.sql** est le script SQL pour cree la db si celle-ci n'est pas cree.
+
 **gac_db.php** permet de se connecter et de remplir la db, en affichant les erreurs(si il y en a), dans les bons formats pour pouvoir
 les exploiter avec les requetes SQL.
 
@@ -12,4 +14,4 @@ les exploiter avec les requetes SQL.
   18h00, par abonné.
   * Retrouver la quantité totale de SMS envoyés par l'ensemble des abonnés.
   
-**db_gac.sql** est le script SQL pour cree la db si celle-ci n'est pas cree.
+
