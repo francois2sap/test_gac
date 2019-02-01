@@ -1,7 +1,7 @@
 # Exercie d'évaluation technique – GAC Technology
 
 
-Ceci est le repo GitHub contenant le fichier scv des appels, ainsi que les scripts php.
+Ceci est le repo GitHub contenant le fichier scv (**tickets_appels_201202.csv**) des appels, ainsi que les scripts php.
 
 **db_gac.sql** est le script SQL pour cree la db si celle-ci n'est pas cree.
 
